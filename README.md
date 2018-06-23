@@ -1,4 +1,4 @@
-This course had two predictive projects.  
+This course has two predictive projects.  
 One is a regression problem, and the other is a classification problem.  
 The summaries of the two projects are as follows:  
 
@@ -21,7 +21,7 @@ Target Value: whether the income of a person exceeds $50K per year (0 or 1)
 Features: 13 demographic characteristics, such as age, education, and occupation  
 Training Data Size: 20,000  
 Test Data Size: 10,000  
-Performance Measure: AUC, the area under the ROC (receiver-operator characteristic) curve
+Performance Measure: AUC, the area under the ROC (receiver-operator characteristic) curve  
 ML Techniques Used: Random Forests, K-Nearest Neighbors, and Logistic Regression  
 Tools Used: sklearn, Minitab  
 Project Description: Please refer to "Project2 Description.pdf."  
