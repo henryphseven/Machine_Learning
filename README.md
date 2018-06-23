@@ -1,5 +1,6 @@
 This course has two predictive projects.  
 One is a regression problem, and the other is a classification problem.  
+Both are completed by a team of 3 students.  
 The summaries of the two projects are as follows:  
 
 Project 1: Predict Rainfall  
